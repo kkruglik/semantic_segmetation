@@ -12,6 +12,6 @@
 
 Это фотографии двух типов **поражений кожи:** меланома и родинки.
 
-<table><tr><td><img src="https://github.com/kkruglik/semantic_segmetation/blob/main/mask.jpg"></td><td><img src="https://github.com/kkruglik/semantic_segmetation/blob/main/melanoma.jpg"></td></tr></table>
+<table><tr><td><img src="https://github.com/kkruglik/semantic_segmetation/blob/main/imgs/mask.jpg"></td><td><img src="https://github.com/kkruglik/semantic_segmetation/blob/main/imgs/melanoma.jpg"></td></tr></table>
 
 В данном задании мы не будем заниматься их классификацией, а будем **сегментировать** их.
