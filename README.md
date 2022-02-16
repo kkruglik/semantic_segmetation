@@ -8,9 +8,10 @@
 * Какие результаты были достигнуты?
 * Чем результаты различных подходов отличались друг от друга и от бейзлайна (если таковой присутствует)?
 
-В задаче используется датасет PH2Dataset [ADDI project](https://www.fc.up.pt/addi/ph2%20database.html).
+В задаче используется датасет [PH2Dataset](https://www.fc.up.pt/addi/ph2%20database.html) ADDI project.
 
 Это фотографии двух типов **поражений кожи:** меланома и родинки.
-В данном задании мы не будем заниматься их классификацией, а будем **сегментировать** их.
 
 <table><tr><td><img src="https://github.com/kkruglik/semantic_segmetation/blob/main/mask.jpg"></td><td><img src="https://github.com/kkruglik/semantic_segmetation/blob/main/melanoma.jpg"></td></tr></table>
+
+В данном задании мы не будем заниматься их классификацией, а будем **сегментировать** их.
